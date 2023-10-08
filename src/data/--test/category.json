@@ -1,0 +1,7 @@
+[
+	{ "category_name": "ring", "total_items": 5, "created_time": "date" },
+	{ "category_name": "earrings", "total_items": 6, "created_time": "date" },
+	{ "category_name": "bracelet", "total_items": 5, "created_time": "date" },
+	{ "category_name": "pendant", "total_items": 5, "created_time": "date" },
+	{ "category_name": "necklace", "total_items": 5, "created_time": "date" }
+]
