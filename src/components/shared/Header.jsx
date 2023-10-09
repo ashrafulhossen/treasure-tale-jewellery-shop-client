@@ -14,8 +14,7 @@ const Header = () => {
 	const hideMenuHandler = () => setShowMenu(false);
 
 	// profile menu handler
-	const showProfileMenuHandler = () => setShowProfileMenu(true);
-	const hideProfileMenuHandler = () => setShowProfileMenu(false);
+	const showProfileMenuHandler = () => setShowProfileMenu(!showProfileMenu);
 
 	const menuItems = (
 		<>
@@ -82,17 +81,39 @@ const Header = () => {
 			{/* User Profile */}
 			<div className="relative">
 				<div
-					onMouseEnter={showProfileMenuHandler}
-					onMouseLeave={hideProfileMenuHandler}
+					onClick={showProfileMenuHandler}
 					className="flex items-center gap-2"
 				>
 					<FaUserCircle className="text-white h-7 w-7" />
 					<span className="text-white lg:hidden">Profile</span>
 				</div>
 				{showProfileMenu && (
-					<div className="absolute top-10 left-0 p-3 border border-zinc-400 rounded-md bg-black">
-						<div className="flex">
-							<button className="text-white">Login</button>
+					<div className="absolute top-10 left-0 p-4 border border-zinc-400 rounded-md bg-black">
+						<div className="flex flex-col gap-2">
+							<NavLink
+								to={"/authentication/login"}
+								className={({ isActive }) =>
+									`mx-1 hover:px-1 hover:mx-0 hover:border-b-2 hover:border-amber-200 hover:text-amber-200 transition-all duration-200 ${
+										isActive
+											? "text-amber-200 border-b-2 outline-offset-1 border-amber-200"
+											: "text-white"
+									}`
+								}
+							>
+								Login
+							</NavLink>
+							<NavLink
+								to={"/authentication/register"}
+								className={({ isActive }) =>
+									`mx-1 hover:px-1 hover:mx-0 hover:border-b-2 hover:border-amber-200 hover:text-amber-200 transition-all duration-200 ${
+										isActive
+											? "text-amber-200 border-b-2 outline-offset-1 border-amber-200"
+											: "text-white"
+									}`
+								}
+							>
+								Register
+							</NavLink>
 						</div>
 					</div>
 				)}
@@ -101,7 +122,7 @@ const Header = () => {
 	);
 
 	return (
-		<section className="bg-black">
+		<section className="bg-black border-b border-zinc-700">
 			<div className="container py-3 px-2 mx-auto flex items-center justify-between">
 				<div>
 					<Logo />
