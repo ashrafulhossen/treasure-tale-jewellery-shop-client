@@ -4,7 +4,7 @@
 		"price": 699.99,
 		"quantity": 50,
 		"brand": "ElegantGems",
-		"image": "https://i.ibb.co/DWTk0mx/ruby-dimaond-ring.jpg",
+		"image": "https://i.ibb.co/xszHqGZ/ruby-dimaond-ring.jpg",
 		"category": "ring",
 		"tags": [
 			"ruby",
@@ -35,7 +35,7 @@
 		"price": 149.99,
 		"quantity": 50,
 		"brand": "GemstoneGlam",
-		"image": "https://i.ibb.co/StBbgyf/ruby-cubic-zirconia-ring.jpg",
+		"image": "https://i.ibb.co/bbb2Gm0/ruby-cubic-zirconia-ring.jpg",
 		"category": "ring",
 		"tags": [
 			"ruby ring",
@@ -70,7 +70,7 @@
 		"price": 59.99,
 		"quantity": 100,
 		"brand": "SilverElegance",
-		"image": "https://i.ibb.co/b2jd6mR/sterling-silver-bead-ring.jpg",
+		"image": "https://i.ibb.co/h8NwdJy/sterling-silver-bead-ring.jpg",
 		"category": "ring",
 		"tags": ["sterling silver", "bead Ring", "fashion", "ring"],
 		"short_description": "Elegant sterling silver bead ring, perfect for adding a touch of sophistication to any outfit.",
@@ -98,8 +98,8 @@
 		"name": "Diamond Eternity Ring Set In 14k White Gold r11260be Icsd",
 		"price": 1499.99,
 		"quantity": 50,
-        "brand": "Luxury Gems",
-		"image": "https://i.ibb.co/wy36vpd/diamond-eternity-ring.jpg",
+		"brand": "Luxury Gems",
+		"image": "https://i.ibb.co/18Vgt0Q/diamond-eternity-ring.jpg",
 		"category": "ring",
 		"tags": [
 			"diamond",
@@ -110,7 +110,7 @@
 		],
 		"short_description": "Elegant diamond eternity band in stunning 14k white gold, perfect for any occasion.",
 		"full_description": "Make a statement with this exquisite Diamond Eternity Band Set In 14k White Gold (model r11260be Icsd). Crafted with precision and adorned with brilliant diamonds, this band is designed to symbolize eternal love and commitment. The 14k white gold setting adds a touch of elegance and sophistication, making it suitable for weddings, anniversaries, or as a stunning fashion accessory. Available in limited quantities, so secure yours today and cherish the timeless beauty of this exceptional ring.\n\nFeatures:\n- Material: 14k White Gold\n- Stones: Genuine Diamonds\n- Band Width: 3mm\n- Available Sizes: 5-9\n\nIncludes a luxury gift box and certificate of authenticity.",
-        "rating": 4.6,
+		"rating": 4.6,
 		"reviews": [
 			{
 				"reviewer_name": "Alice Johnson",
@@ -133,13 +133,13 @@
 		"name": "Sterling Silver Half Eternity Ring Set",
 		"price": 199.99,
 		"quantity": 50,
-        "brand": "LuxuryJewels",
-		"image": "https://i.ibb.co/zGnLNN0/sterling-silver-half-hternity-ring.jpg",
+		"brand": "LuxuryJewels",
+		"image": "https://i.ibb.co/R0rbYFT/sterling-silver-half-hternity-ring.jpg",
 		"category": "ring",
 		"tags": ["silver", "eternity", "ring", "gemstones"],
 		"short_description": "Stunning half eternity ring set with round and emerald cut stones. A timeless piece of elegance.",
 		"full_description": "Elevate your style with this exquisite Sterling Silver Half Eternity Ring Set. Crafted with precision, it features a beautiful combination of round and emerald-cut stones, set in a half eternity design. The ring is made from high-quality sterling silver, ensuring durability and a brilliant shine that lasts. Suitable for any occasion, this ring exudes timeless elegance and sophistication. Whether it's a gift for a loved one or a treat for yourself, this ring will be cherished for years to come.",
-        "rating": 4.5,
+		"rating": 4.5,
 		"reviews": [
 			{
 				"reviewer_name": "Alice Smith",
@@ -162,13 +162,13 @@
 		"name": "Mvcac Silver Earring",
 		"price": 49.99,
 		"quantity": 100,
-        "brand": "MVCAC Jewelry",
-		"image": "https://i.ibb.co/dDzvNxM/mvcac-silver-earring.jpg",
+		"brand": "MVCAC Jewelry",
+		"image": "https://i.ibb.co/gvfnnsj/mvcac-silver-earring.jpg",
 		"category": "earrings",
 		"tags": ["silver", "earring", "fashion", "accessory"],
 		"short_description": "Elegant silver earring for a touch of sophistication.",
 		"full_description": "Elevate your style with these Mvcac Silver Earrings. Made from high-quality sterling silver, these earrings exude elegance and charm. Their timeless design complements any outfit, whether it's a casual day out or a formal event. With a secure clasp, they stay in place comfortably. Each set comes in a stylish gift box, making them a perfect present. Enhance your look and make a statement with Mvcac Silver Earrings today.",
-        "rating": 4.5,
+		"rating": 4.5,
 		"reviews": [
 			{
 				"reviewer_name": "Alice Johnson",
@@ -187,584 +187,561 @@
 			}
 		]
 	},
-    {
-        "name": "Jewelove Platinum Earrings Pendant Set",
-        "price": 3999.99,
-        "quantity": 50,
-        "brand": "Jewelove",
-        "image": "https://example.com/jewelove-platinum-set.jpg",
-        "category": "earrings",
-        "tags": ["platinum", "earrings", "pendant", "set"],
-        "short_description": "Elegant platinum earrings and pendant set for a sophisticated look.",
-        "full_description": "Elevate your style with this exquisite platinum earrings and pendant set by Jewelove. Crafted with precision, this set features stunning designs that showcase the brilliance of platinum. Each piece is adorned with delicate details, making it perfect for special occasions or everyday elegance. The set comes with a beautifully designed pendant and a matching pair of earrings, both set with shimmering gemstones. With its timeless appeal and luxurious quality, this Jewelove Platinum Earrings Pendant Set is a true symbol of sophistication and beauty.",
-        "rating": 4.7,
-        "reviews": [
-          {
-            "reviewer_name": "Alice Johnson",
-            "reviewer_email": "alice@example.com",
-            "review": "I absolutely love this set! The craftsmanship is top-notch, and the platinum shines brilliantly. It's a perfect gift."
-          },
-          {
-            "reviewer_name": "David Smith",
-            "reviewer_email": "david@example.com",
-            "review": "Elegant and timeless! The pendant and earrings are a stunning addition to my jewelry collection."
-          },
-          {
-            "reviewer_name": "Emily Brown",
-            "reviewer_email": "emily@example.com",
-            "review": "The quality of this platinum set is outstanding. I wear it on special occasions, and it always gets compliments."
-          }
-        ]
-      },
-      {
-        "name": "Allure Platinum Stud Earrings",
-        "price": 499.99,
-        "quantity": 100,
-        "brand": "Allure",
-        "image": "https://i.ibb.co/fn4SNB3/allure-platinum-stud-earrings.jpg",
-        "category": "earrings",
-        "tags": ["platinum", "stud", "earrings", "luxury"],
-        "short_description": "Elegant platinum stud earrings for a timeless and sophisticated look.",
-        "full_description": "Elevate your style with our Allure Platinum Stud Earrings. Crafted from the finest platinum, these earrings exude elegance and luxury. The classic stud design complements any outfit, making them a versatile addition to your jewelry collection. Whether for a special occasion or daily wear, these earrings will enhance your beauty. Each purchase includes a luxurious gift box. Add a touch of timeless sophistication to your ensemble with these exquisite earrings.",
-        "rating": 4.8,
-        "reviews": [
-          {
-            "reviewer_name": "Emily Johnson",
-            "email": "emily@example.com",
-            "review": "I adore these earrings! They are stunning and well-crafted. Worth every penny."
-          },
-          {
-            "reviewer_name": "David Smith",
-            "email": "david@example.com",
-            "review": "These earrings exceeded my expectations. Elegant and comfortable to wear."
-          },
-          {
-            "reviewer_name": "Sarah Davis",
-            "email": "sarah@example.com",
-            "review": "I received these as a gift, and I'm in love. Perfect for any occasion."
-          }
-        ]
-      },
-      {
-        "name": "Swirl Pearl Drop Earrings",
-        "price": 49.99,
-        "quantity": 100,
-        "brand": "Elegant Gems",
-        "image": "https://i.ibb.co/TqZjgCW/swirl-pearl-drop-earrings.jpg",
-        "category": "earrings",
-        "tags": ["pearl", "earrings", "swirl", "fashion"],
-        "short_description": "Elegant Swirl Pearl Earrings for a timeless and sophisticated look.",
-        "full_description": "Elevate your style with these Swirl Pearl Drop Earrings. Made with lustrous pearls and sterling silver, these earrings combine classic beauty with a modern twist. The unique swirl design adds a touch of sophistication to any outfit, making them perfect for special occasions or everyday wear. With a comfortable hook closure, they are easy to put on and take off. These earrings come in a beautiful gift box, making them an ideal gift for a loved one or a stylish addition to your own jewelry collection.",
-        "rating": 4.8,
-        "reviews": [
-          {
-            "reviewer_name": "Alice Smith",
-            "email": "alice@example.com",
-            "review": "I love these earrings! They are so elegant and comfortable to wear. Great value for the price."
-          },
-          {
-            "reviewer_name": "John Doe",
-            "email": "john@example.com",
-            "review": "These earrings exceeded my expectations. They look even better in person. Highly recommended."
-          },
-          {
-            "reviewer_name": "Emily Johnson",
-            "email": "emily@example.com",
-            "review": "The swirl design makes these earrings unique. I've received many compliments when wearing them."
-          }
-        ]
-      },
-      {
-        "name": "Glittering Petals Diamond Stud Earrings",
-        "price": 1499.99,
-        "quantity": 50,
-        "brand": "Sparkling Gems",
-        "image": "https://i.ibb.co/4jMM2d0/glittering-petals-diamond-stud-earrings.jpg",
-        "category": "earrings",
-        "tags": ["diamond", "earrings", "luxury", "fashion"],
-        "short_description": "Elegant diamond stud earrings for a touch of timeless sophistication.",
-        "full_description": "Adorn yourself with the timeless beauty of these Glittering Petals Diamond Stud Earrings. Crafted with precision, these exquisite earrings feature brilliant round-cut diamonds set in a delicate petal-inspired design. They are made of 18k white gold, ensuring both durability and elegance. Whether it's a special occasion or everyday wear, these earrings will elevate your style to new heights. With a limited quantity available, seize the opportunity to own a piece of luxury. Perfect as a gift or for self-indulgence.",
-        "rating": 4.8,
-        "reviews": [
-          {
-            "reviewer_name": "Alice Johnson",
-            "email": "alice@example.com",
-            "review": "I absolutely adore these earrings! The diamonds sparkle brilliantly, and they're so comfortable to wear."
-          },
-          {
-            "reviewer_name": "David Smith",
-            "email": "david@example.com",
-            "review": "The craftsmanship is impeccable. These earrings are worth every penny."
-          },
-          {
-            "reviewer_name": "Emily Davis",
-            "email": "emily@example.com",
-            "review": "I received these as a gift, and they instantly became my favorite pair of earrings. They're stunning!"
-          }
-        ]
-      },
-      {
-        "name": "Ishita Diamond Stud Earrings",
-        "price": 599.99,
-        "quantity": 50,
-        "brand": "Elegance Gems",
-        "image": "https://i.ibb.co/1Zrsyxg/ishita-diamond-stud-earrings.jpg",
-        "category": "earrings",
-        "tags": ["diamond", "earrings", "studs", "luxury"],
-        "short_description": "Elegant diamond stud earrings for a touch of luxury and style.",
-        "full_description": "Elevate your look with these stunning Ishita Diamond Stud Earrings. Crafted with precision, these earrings feature brilliant-cut diamonds set in 18K white gold. Their timeless design adds a touch of sophistication to any outfit, making them perfect for special occasions or daily wear. The earrings come with a secure screw-back closure for added comfort and security. With a rating of 4.8 out of 5, these earrings have received rave reviews for their quality and elegance.",
-        "rating": 4.8,
-        "reviews": [
-          {
-            "reviewer_name": "Emily Smith",
-            "email": "emily.smith@example.com",
-            "review": "I absolutely love these earrings! They're so beautiful and well-crafted. Great value for money."
-          },
-          {
-            "reviewer_name": "David Johnson",
-            "email": "david.johnson@example.com",
-            "review": "The Ishita Diamond Stud Earrings are a perfect gift. My wife adores them! The diamonds sparkle beautifully."
-          },
-          {
-            "reviewer_name": "Sophia Lee",
-            "email": "sophia.lee@example.com",
-            "review": "These earrings are exquisite. I wear them to parties and get compliments every time. Highly recommended."
-          }
-        ]
-      },
-      {
-        "name": "Ishita Classic Shining Heart Diamond Bracelet",
-        "price": 599.99,
-        "quantity": 50,
-        "brand": "Ishita Jewelry",
-        "image": "https://i.ibb.co/mz7PHgj/classic-shining-heart-diamond-bracelet.jpg",
-        "category": "bracelet",
-        "tags": ["diamond", "bracelet", "heart", "classic"],
-        "short_description": "Elegantly crafted heart-shaped diamond bracelet for a timeless and luxurious look.",
-        "full_description": "Elevate your style with the Ishita Classic Shining Heart Diamond Bracelet. This exquisite piece features a stunning heart-shaped pendant encrusted with brilliant diamonds, set in high-quality sterling silver. The adjustable chain ensures a comfortable fit for any wrist size. Whether you're dressing up for a special occasion or adding a touch of glamour to your everyday attire, this bracelet is the perfect choice. Each diamond is carefully selected for its clarity and sparkle, making it a true symbol of elegance and sophistication. With a limited quantity available, don't miss the opportunity to own this exquisite piece of jewelry.",
-        "rating": 4.8,
-        "reviews": [
-          {
-            "reviewer_name": "Alice Smith",
-            "reviewer_email": "alice@example.com",
-            "review": "I absolutely love this bracelet! It's even more beautiful in person. The diamonds shine brilliantly."
-          },
-          {
-            "reviewer_name": "John Davis",
-            "reviewer_email": "john@example.com",
-            "review": "The bracelet exceeded my expectations. It's a statement piece that always garners compliments."
-          },
-          {
-            "reviewer_name": "Sarah Johnson",
-            "reviewer_email": "sarah@example.com",
-            "review": "I bought this as a gift for my daughter, and she adores it. It's elegant and versatile."
-          }
-        ]
-      },
-      {
-        "name": "Glendale Diamond Bracelet",
-        "price": 999.99,
-        "quantity": 50,
-        "brand": "Luxury Gems",
-        "image": "https://i.ibb.co/98YXQgJ/glendale-diamond-bracelet.jpg",
-        "category": "bracelet",
-        "tags": ["diamond", "bracelet", "luxury", "fashion"],
-        "short_description": "Elegant and timeless, the Glendale Diamond Bracelet is a stunning addition to your jewelry collection.",
-        "full_description": "Indulge in luxury with the Glendale Diamond Bracelet. This exquisite piece features a dazzling array of round-cut diamonds set in 18k white gold. Its elegant design is perfect for special occasions or adding a touch of glamour to your everyday look. With 50 pieces in stock, you can secure this elegant accessory today. The Glendale Diamond Bracelet is a testament to craftsmanship and style, making it a valuable addition to your jewelry collection.",
-        "rating": 4.8,
-        "reviews": [
-          {
-            "reviewer_name": "Alice Johnson",
-            "email": "alice@example.com",
-            "review": "I absolutely adore this bracelet! It's so beautiful and well-crafted. Worth every penny."
-          },
-          {
-            "reviewer_name": "David Smith",
-            "email": "david@example.com",
-            "review": "The Glendale Diamond Bracelet is a showstopper. I bought it as a gift, and the recipient was thrilled."
-          },
-          {
-            "reviewer_name": "Emily Davis",
-            "email": "emily@example.com",
-            "review": "This bracelet exceeded my expectations. The diamonds sparkle brilliantly, and it's incredibly comfortable to wear."
-          }
-        ]
-      },
-      {
-        "name": "Shelly Diamond Mangalsutra Bracelet",
-        "price": 1999.99,
-        "quantity": 50,
-        "brand": "Shelly Jewelry",
-        "image": "https://i.ibb.co/PCL6Ffm/shelly-diamond-mangalsutra-bracelet.jpg",
-        "category": "bracelet",
-        "tags": ["mangalsutra", "diamond", "bracelet", "traditional", "wedding"],
-        "short_description": "Elegant mangalsutra bracelet with stunning diamonds, perfect for weddings and special occasions.",
-        "full_description": "The Shelly Diamond Mangalsutra Bracelet is a symbol of timeless elegance and tradition. Crafted with care and precision, this exquisite piece features brilliant diamonds set in a delicate and intricate design. Whether worn as a mangalsutra or a bracelet, it adds a touch of grace to any outfit. This piece is a true masterpiece, suitable for weddings, anniversaries, or any special occasion. With a limited quantity available, don't miss the chance to own this stunning jewelry from Shelly Jewelry. Embrace tradition with a modern twist, and make a statement of love and commitment with this beautiful mangalsutra bracelet.",
-        "rating": 4.8,
-        "reviews": [
-          {
-            "reviewer_name": "Emily Smith",
-            "email": "emily.smith@example.com",
-            "review": "I absolutely love this mangalsutra bracelet! The diamonds are stunning, and it's so versatile. It's become my favorite piece of jewelry."
-          },
-          {
-            "reviewer_name": "David Patel",
-            "email": "david.patel@example.com",
-            "review": "This bracelet is worth every penny. The craftsmanship is exceptional, and it's the perfect gift for a special occasion."
-          },
-          {
-            "reviewer_name": "Sara Johnson",
-            "email": "sara.johnson@example.com",
-            "review": "I received this as a wedding gift, and it's the most beautiful piece of jewelry I own. It's a symbol of love and commitment that I cherish."
-          }
-        ]
-      },
-      {
-        "name": "Zohreh Diamond Bracelet",
-        "price": 2499.99,
-        "quantity": 100,
-        "brand": "Zohreh Jewelry",
-        "image": "https://i.ibb.co/vjtZ881/zohreh-diamond-bracelet.jpg",
-        "category": "bracelet",
-        "tags": ["diamond", "bracelet", "luxury"],
-        "short_description": "Elegant and timeless diamond bracelet for a touch of luxury.",
-        "full_description": "The Zohreh Diamond Bracelet is a masterpiece of craftsmanship and elegance. Adorned with exquisite diamonds, this bracelet is the epitome of luxury. Its timeless design and exceptional quality make it the perfect accessory for any special occasion. Whether you're attending a gala or celebrating a milestone, this bracelet will add a touch of glamour to your ensemble. With 100 pieces in stock, it's an exclusive piece of jewelry that you don't want to miss. Elevate your style with the Zohreh Diamond Bracelet today.",
-        "rating": 4.8,
-        "reviews": [
-          {
-            "reviewer_name": "Alice Johnson",
-            "email": "alice@example.com",
-            "review": "I absolutely love this bracelet! It's stunning and the diamonds sparkle brilliantly."
-          },
-          {
-            "reviewer_name": "David Smith",
-            "email": "david@example.com",
-            "review": "The Zohreh Diamond Bracelet exceeded my expectations. It's worth every penny."
-          },
-          {
-            "reviewer_name": "Emily Davis",
-            "email": "emily@example.com",
-            "review": "This bracelet is a true work of art. It's elegant and adds a touch of glamour to my outfits."
-          }
-        ]
-      },
-      {
-        "name": "Millie Bloom Gemstone Bracelet",
-        "price": 49.99,
-        "quantity": 100,
-        "brand": "Millie Bloom",
-        "image": "https://i.ibb.co/wzWbnxF/millie-bloom-gemstone-bracelets.jpg",
-        "category": "bracelet",
-        "tags": ["gemstone", "bracelet", "fashion"],
-        "short_description": "Elegant gemstone bracelet for a touch of sophistication.",
-        "full_description": "The Millie Bloom Gemstone Bracelet is a stunning piece of jewelry that combines the beauty of natural gemstones with modern design. This bracelet features an array of carefully selected gemstones, each known for their unique and positive energies. It's perfect for adding a touch of sophistication to any outfit, whether it's a formal event or a casual day out. The adjustable clasp ensures a comfortable fit for most wrist sizes. Elevate your style and energy with this exquisite Millie Bloom Gemstone Bracelet.",
-        "rating": 4.8,
-        "reviews": [
-          {
-            "reviewer_name": "Anna Smith",
-            "email": "anna.smith@example.com",
-            "review": "I love this bracelet! The colors of the gemstones are so vibrant, and it adds a special touch to my outfits."
-          },
-          {
-            "reviewer_name": "John Doe",
-            "email": "johndoe@example.com",
-            "review": "The quality is top-notch, and it arrived promptly. Great value for the price."
-          },
-          {
-            "reviewer_name": "Emily Johnson",
-            "email": "emily.j@example.com",
-            "review": "I receive compliments every time I wear it. It's become my favorite piece of jewelry."
-          }
-        ]
-      },
-      {
-        "name": "Amanda Diamond Pendant",
-        "price": 799.99,
-        "quantity": 50,
-        "brand": "LuxuryGems",
-        "image": "https://i.ibb.co/VJ7gyDV/amanda-diamond-pendant.jpg",
-        "category": "pendant",
-        "tags": ["diamond", "pendant", "luxury", "fashion"],
-        "short_description": "Elegant Amanda Diamond Pendant for a touch of luxury and style.",
-        "full_description": "The Amanda Diamond Pendant is a masterpiece of elegance and sophistication. Crafted with precision, it features a brilliant-cut diamond set in 18K white gold, creating a mesmerizing sparkle. This pendant is the perfect accessory for special occasions or everyday glamour. It comes with a matching chain and an exquisite gift box.\n\nDimensions: 0.5 inches x 0.3 inches\n\nWeight: 0.2 carats\n\nRating: 4.8 out of 5",
-        "rating": 4.8,
-        "reviews": [
-          {
-            "reviewer_name": "Emily Smith",
-            "email": "emily.smith@example.com",
-            "review": "Absolutely stunning! I receive compliments every time I wear it."
-          },
-          {
-            "reviewer_name": "John Davis",
-            "email": "john.davis@example.com",
-            "review": "The Amanda Pendant exceeded my expectations. It's worth every penny."
-          },
-          {
-            "reviewer_name": "Sophia Johnson",
-            "email": "sophia.johnson@example.com",
-            "review": "I bought this as a gift for my wife, and she loves it. It's truly beautiful."
-          }
-        ]
-      },
-      {
-        "name": "Heart Silhouette Gemstone Pendant",
-        "price": 49.99,
-        "quantity": 100,
-        "brand": "GemCrafters",
-        "image": "https://i.ibb.co/mBVmbZ7/heart-silhouette-gemstone-pendant.jpg",
-        "category": "pendant",
-        "tags": ["heart pendant", "gemstone", "necklace"],
-        "short_description": "Elegant heart-shaped gemstone pendant, perfect for adding a touch of romance to your style.",
-        "full_description": "The Heart Silhouette Gemstone Pendant is a stunning piece of jewelry crafted by GemCrafters. Made from high-quality materials, this pendant features a heart-shaped gemstone encased in a delicate sterling silver setting. It's the perfect accessory to express your love or add a touch of romance to your style. With a variety of gemstone options available, you can choose the one that resonates with you the most. Whether you wear it on a special occasion or as an everyday accessory, this pendant will surely turn heads. It comes with a matching chain and a beautiful gift box, making it an excellent gift choice as well.",
-        "rating": 4.8,
-        "reviews": [
-          {
-            "reviewer_name": "Alice Johnson",
-            "reviewer_email": "alice@example.com",
-            "review": "I absolutely love this pendant! It's even more beautiful in person, and the gemstone quality is outstanding."
-          },
-          {
-            "reviewer_name": "John Smith",
-            "reviewer_email": "john@example.com",
-            "review": "Bought this as a gift for my wife, and she adores it. The craftsmanship is remarkable. Highly recommended!"
-          },
-          {
-            "reviewer_name": "Emily Davis",
-            "reviewer_email": "emily@example.com",
-            "review": "Received this pendant as an anniversary gift. It's breathtaking! The packaging is lovely too."
-          }
-        ]
-      },
-      {
-        "name": "Delicate Waves Diamond Pendant",
-        "price": 799.99,
-        "quantity": 50,
-        "brand": "Elegance Gems",
-        "image": "https://i.ibb.co/mX2Rbrw/delicate-waves-diamond-pendant.jpg",
-        "category": "pendant",
-        "tags": ["diamond", "pendant", "luxury", "fashion"],
-        "short_description": "Elegant waves of diamonds adorn this pendant, perfect for adding a touch of luxury to any outfit.",
-        "full_description": "The Delicate Waves Diamond Pendant is a stunning piece of jewelry that exudes timeless elegance. Crafted with precision and attention to detail, this pendant features a graceful wave design encrusted with brilliant, ethically sourced diamonds. The pendant is made from 18k white gold, adding to its allure and durability. Whether worn for a special occasion or as an everyday accessory, this pendant is sure to captivate hearts and turn heads. It comes with an adjustable chain, allowing you to customize the length to suit your style. Elevate your jewelry collection with the Delicate Waves Diamond Pendant today.",
-        "rating": 4.8,
-        "reviews": [
-          {
-            "reviewer_name": "Emily Smith",
-            "reviewer_email": "emily@example.com",
-            "review": "Absolutely stunning! I receive compliments every time I wear this pendant. It's the perfect blend of elegance and sophistication."
-          },
-          {
-            "reviewer_name": "John Doe",
-            "reviewer_email": "john@example.com",
-            "review": "I bought this pendant as a gift for my wife, and she couldn't be happier. The quality and craftsmanship are exceptional."
-          },
-          {
-            "reviewer_name": "Sarah Johnson",
-            "reviewer_email": "sarah@example.com",
-            "review": "The Delicate Waves Pendant is a true work of art. I'm in love with its unique design and the way it sparkles in the light."
-          }
-        ]
-      },
-      {
-        "name": "Melrose Ornate Diamond Pendant",
-        "price": 1499.99,
-        "quantity": 50,
-        "brand": "Luxury Gems",
-        "image": "https://i.ibb.co/ZfzcLq9/melrose-ornate-diamond-pendant.jpg",
-        "category": "pendant",
-        "tags": ["diamond", "pendant", "luxury", "ornate", "fashion"],
-        "short_description": "Elegant diamond pendant for a touch of luxury and sophistication.",
-        "full_description": "Elevate your style with the Melrose Ornate Diamond Pendant. This exquisite piece features a brilliant-cut diamond set in a beautifully crafted ornate design. The pendant is made from 18k white gold and comes with a delicate chain. Whether for a special occasion or everyday elegance, this pendant adds a touch of luxury to any outfit. Dimensions: 1.5cm x 0.8cm. Chain length: 18 inches. Weight: 3.5 grams.",
-        "rating": 4.8,
-        "reviews": [
-          {
-            "reviewer_name": "Alice Johnson",
-            "email": "alice@example.com",
-            "review": "I absolutely love this pendant! It's even more stunning in person."
-          },
-          {
-            "reviewer_name": "David Smith",
-            "email": "david@example.com",
-            "review": "Great craftsmanship and excellent value for such a beautiful piece."
-          },
-          {
-            "reviewer_name": "Emily Davis",
-            "email": "emily@example.com",
-            "review": "Received it as a gift, and I couldn't be happier. It's simply gorgeous."
-          }
-        ]
-      },
-      {
-        "name": "Alder Root Diamond Pendant",
-        "price": 799.99,
-        "quantity": 50,
-        "brand": "Luxury Gems",
-        "image": "https://i.ibb.co/4gr4RG4/alder-root-diamond-pendant.jpg",
-        "category": "pendant",
-        "tags": ["diamond", "pendant", "luxury", "jewelry"],
-        "short_description": "Elegant Alder Root Diamond Pendant for timeless beauty and style.",
-        "full_description": "The Alder Root Diamond Pendant is a masterpiece of craftsmanship and elegance. This exquisite pendant features a stunning round-cut diamond set in a delicate alder root-inspired design, crafted from 18k white gold. It exudes timeless beauty and style, making it the perfect accessory for any special occasion. Whether worn for a romantic dinner or a formal event, this pendant will capture hearts and attention. It comes with a 20-inch white gold chain and a secure clasp. Elevate your style and radiate sophistication with this luxurious piece.",
-        "rating": 4.8,
-        "reviews": [
-          {
-            "reviewer_name": "Emily Johnson",
-            "email": "emily@example.com",
-            "review": "I absolutely love this pendant! It's so elegant and unique. The diamond sparkles beautifully."
-          },
-          {
-            "reviewer_name": "Michael Davis",
-            "email": "michael@example.com",
-            "review": "Bought this as a gift for my wife, and she couldn't be happier. It's a stunning piece of jewelry."
-          },
-          {
-            "reviewer_name": "Sarah Smith",
-            "email": "sarah@example.com",
-            "review": "The Alder Root Pendant is simply breathtaking. The craftsmanship is top-notch, and it's worth every penny."
-          }
-        ]
-      },
-      {
-        "name": "Doris Heartbeat Diamond Necklace",
-        "price": 1999.99,
-        "quantity": 50,
-        "brand": "Doris Jewelers",
-        "image": "https://i.ibb.co/5YZ3M4h/doris-heartbeat-diamond-necklace.jpg",
-        "category": "necklace",
-        "tags": ["diamond", "necklace", "heartbeat"],
-        "short_description": "Elegantly crafted Heartbeat Diamond Necklace, a symbol of love and grace.",
-        "full_description": "The Doris Heartbeat Diamond Necklace is a masterpiece of fine jewelry craftsmanship. It features a stunning heart-shaped pendant adorned with brilliant-cut diamonds, symbolizing love and eternal connection. The necklace is made from 18k white gold, adding to its elegance and durability. With an adjustable chain length, it can be worn at various lengths to complement any outfit. This necklace is perfect for special occasions or as a timeless gift for a loved one. Each diamond is carefully selected for its quality and brilliance. Elevate your style with this exquisite piece from Doris Jewelers.",
-        "rating": 4.8,
-        "reviews": [
-          {
-            "reviewer_name": "Emily Johnson",
-            "reviewer_email": "emily.johnson@example.com",
-            "review": "I fell in love with this necklace the moment I saw it! It's absolutely stunning and the diamonds sparkle beautifully."
-          },
-          {
-            "reviewer_name": "Michael Smith",
-            "reviewer_email": "michael.smith@example.com",
-            "review": "My wife adores this necklace. I surprised her with it on our anniversary, and she couldn't be happier."
-          },
-          {
-            "reviewer_name": "Sophia Davis",
-            "reviewer_email": "sophia.davis@example.com",
-            "review": "The craftsmanship is impressive. I receive compliments every time I wear it. Worth every penny!"
-          }
-        ]
-      },
-      {
-        "name": "Adore Personalized Gemstone Necklace",
-        "price": 99.99,
-        "quantity": 100,
-        "brand": "Adore Jewels",
-        "image": "https://i.ibb.co/wJbmBkP/adore-personalised-gemstone-necklace.jpg",
-        "category": "necklace",
-        "tags": ["gemstone", "personalized", "necklace", "gift"],
-        "short_description": "Elegantly crafted gemstone necklace with your choice of personalization. Perfect for any occasion.",
-        "full_description": "The Adore Personalized Gemstone Necklace is a true masterpiece of craftsmanship. This exquisite necklace features a genuine gemstone of your choice, set in a beautiful and timeless design. What makes it truly special is the option to personalize it with a name or meaningful word, making it a unique and cherished keepsake. It's crafted with the finest materials and attention to detail, ensuring both beauty and durability. Whether you're treating yourself or looking for the perfect gift, this necklace is sure to be treasured for a lifetime.",
-        "rating": 4.8,
-        "reviews": [
-          {
-            "reviewer_name": "Emily Smith",
-            "email": "emily@example.com",
-            "review": "I absolutely love my Adore Gemstone Necklace! It's stunning and the personalization makes it even more special."
-          },
-          {
-            "reviewer_name": "John Doe",
-            "email": "john@example.com",
-            "review": "Great quality and fast shipping. The gemstone shines beautifully. Highly recommend!"
-          },
-          {
-            "reviewer_name": "Sarah Johnson",
-            "email": "sarah@example.com",
-            "review": "Received this as a gift, and I couldn't be happier. It's a perfect addition to my jewelry collection."
-          }
-        ]
-      },
-      {
-        "name": "Vintage Crown Diamond Necklace",
-        "price": 4999.99,
-        "quantity": 10,
-        "brand": "Elegance Jewels",
-        "image": "https://i.ibb.co/Mh6NRhr/vintage-crown-diamond-necklace.jpg",
-        "category": "necklace",
-        "tags": ["vintage", "diamond", "necklace", "luxury"],
-        "short_description": "Exquisite vintage crown diamond necklace, a symbol of timeless elegance and luxury.",
-        "full_description": "Elevate your style with this Vintage Crown Diamond Necklace by Elegance Jewels. Crafted with precision, this necklace features a stunning crown-shaped pendant adorned with brilliant diamonds. The intricate design and exquisite craftsmanship make it a true masterpiece. This necklace is the perfect accessory for special occasions or as a cherished heirloom piece. With only 10 available, don't miss your chance to own a piece of history.",
-        "rating": 4.8,
-        "reviews": [
-          {
-            "reviewer_name": "Sophia Smith",
-            "reviewer_email": "sophia@example.com",
-            "review": "I absolutely adore this necklace! The diamonds sparkle brilliantly, and the design is stunning."
-          },
-          {
-            "reviewer_name": "John Doe",
-            "reviewer_email": "john@example.com",
-            "review": "Bought this as a gift for my wife, and she was thrilled. It's truly a work of art."
-          },
-          {
-            "reviewer_name": "Emma Johnson",
-            "reviewer_email": "emma@example.com",
-            "review": "The Vintage Crown Diamond Necklace is the epitome of elegance. I wear it for special occasions and always get compliments."
-          }
-        ]
-      },
-      {
-        "name": "Nelia Cutout Pearl Necklace",
-        "price": 49.99,
-        "quantity": 100,
-        "brand": "EleganceCraft",
-        "image": "https://i.ibb.co/yVkV6S7/nelia-cutout-pearl-necklace.jpg",
-        "category": "necklace",
-        "tags": ["pearl", "necklace", "fashion", "accessory"],
-        "short_description": "Elegant pearl necklace with intricate cutout design. Perfect for formal occasions or adding a touch of class to everyday wear.",
-        "full_description": "The Nelia Cutout Pearl Necklace is a stunning piece of jewelry that exudes sophistication and elegance. Crafted with precision, it features lustrous pearls intricately set in a beautiful cutout design. This necklace is versatile, suitable for both formal events and everyday wear. Its timeless design complements various outfits, making it a must-have accessory for any fashion enthusiast. The high-quality materials ensure durability and lasting beauty. With a length that rests gracefully on the neckline, this necklace is a symbol of refined taste. Elevate your style with the Nelia Cutout Pearl Necklace.",
-        "rating": 4.8,
-        "reviews": [
-          {
-            "reviewer_name": "Sarah Smith",
-            "email": "sarah@example.com",
-            "review": "I adore this necklace! It's even more beautiful in person. Excellent craftsmanship and packaging."
-          },
-          {
-            "reviewer_name": "John Doe",
-            "email": "john@example.com",
-            "review": "Bought it as a gift for my wife, and she loves it. The pearls are exquisite. Highly recommended."
-          },
-          {
-            "reviewer_name": "Emma Johnson",
-            "email": "emma@example.com",
-            "review": "I wear this necklace to every special occasion. It adds a touch of glamour to my outfits. Truly a timeless piece."
-          }
-        ]
-      },
-      {
-        "name": "Margot Heartbeat Diamond Necklace",
-        "price": 2499.99,
-        "quantity": 50,
-        "brand": "HeartLux",
-        "image": "https://i.ibb.co/yBYdBRx/margot-heartbeat-diamond-necklace.jpg",
-        "category": "necklace",
-        "tags": ["diamond", "necklace", "luxury", "heart-shaped"],
-        "short_description": "Elegance and love combined. The Margot Heartbeat Diamond Necklace is a symbol of affection and sophistication.",
-        "full_description": "The Margot Heartbeat Diamond Necklace is a stunning piece of jewelry that embodies elegance and love. Crafted with exquisite attention to detail, this necklace features a heart-shaped pendant adorned with brilliant diamonds that seem to beat with life. Made from high-quality materials, it's both durable and beautiful, making it a perfect gift for a loved one or a timeless addition to your collection. Whether you wear it for a special occasion or as an everyday statement piece, the Margot Necklace will capture hearts wherever you go. Available in limited quantity, so secure yours today.",
-        "rating": 4.8,
-        "reviews": [
-          {
-            "reviewer_name": "Sarah Smith",
-            "email": "sarah.smith@example.com",
-            "review": "I absolutely adore my Margot necklace! It's the epitome of elegance and a real conversation starter."
-          },
-          {
-            "reviewer_name": "John Doe",
-            "email": "john.doe@example.com",
-            "review": "The Margot Necklace exceeded my expectations. The craftsmanship and quality are exceptional."
-          },
-          {
-            "reviewer_name": "Emily Johnson",
-            "email": "emily.johnson@example.com",
-            "review": "I received this necklace as a gift, and it instantly became my favorite piece. The diamonds sparkle beautifully."
-          }
-        ]
-      }
+	{
+		"name": "Allure Platinum Stud Earrings",
+		"price": 499.99,
+		"quantity": 100,
+		"brand": "Allure",
+		"image": "https://i.ibb.co/0MNqP3k/allure-platinum-stud-earrings.jpg",
+		"category": "earrings",
+		"tags": ["platinum", "stud", "earrings", "luxury"],
+		"short_description": "Elegant platinum stud earrings for a timeless and sophisticated look.",
+		"full_description": "Elevate your style with our Allure Platinum Stud Earrings. Crafted from the finest platinum, these earrings exude elegance and luxury. The classic stud design complements any outfit, making them a versatile addition to your jewelry collection. Whether for a special occasion or daily wear, these earrings will enhance your beauty. Each purchase includes a luxurious gift box. Add a touch of timeless sophistication to your ensemble with these exquisite earrings.",
+		"rating": 4.8,
+		"reviews": [
+			{
+				"reviewer_name": "Emily Johnson",
+				"email": "emily@example.com",
+				"review": "I adore these earrings! They are stunning and well-crafted. Worth every penny."
+			},
+			{
+				"reviewer_name": "David Smith",
+				"email": "david@example.com",
+				"review": "These earrings exceeded my expectations. Elegant and comfortable to wear."
+			},
+			{
+				"reviewer_name": "Sarah Davis",
+				"email": "sarah@example.com",
+				"review": "I received these as a gift, and I'm in love. Perfect for any occasion."
+			}
+		]
+	},
+	{
+		"name": "Swirl Pearl Drop Earrings",
+		"price": 49.99,
+		"quantity": 100,
+		"brand": "Elegant Gems",
+		"image": "https://i.ibb.co/vcb3pZ8/swirl-pearl-drop-earrings.jpg",
+		"category": "earrings",
+		"tags": ["pearl", "earrings", "swirl", "fashion"],
+		"short_description": "Elegant Swirl Pearl Earrings for a timeless and sophisticated look.",
+		"full_description": "Elevate your style with these Swirl Pearl Drop Earrings. Made with lustrous pearls and sterling silver, these earrings combine classic beauty with a modern twist. The unique swirl design adds a touch of sophistication to any outfit, making them perfect for special occasions or everyday wear. With a comfortable hook closure, they are easy to put on and take off. These earrings come in a beautiful gift box, making them an ideal gift for a loved one or a stylish addition to your own jewelry collection.",
+		"rating": 4.8,
+		"reviews": [
+			{
+				"reviewer_name": "Alice Smith",
+				"email": "alice@example.com",
+				"review": "I love these earrings! They are so elegant and comfortable to wear. Great value for the price."
+			},
+			{
+				"reviewer_name": "John Doe",
+				"email": "john@example.com",
+				"review": "These earrings exceeded my expectations. They look even better in person. Highly recommended."
+			},
+			{
+				"reviewer_name": "Emily Johnson",
+				"email": "emily@example.com",
+				"review": "The swirl design makes these earrings unique. I've received many compliments when wearing them."
+			}
+		]
+	},
+	{
+		"name": "Glittering Petals Diamond Stud Earrings",
+		"price": 1499.99,
+		"quantity": 50,
+		"brand": "Sparkling Gems",
+		"image": "https://i.ibb.co/Hp735rJ/glittering-petals-diamond-stud-earrings.jpg",
+		"category": "earrings",
+		"tags": ["diamond", "earrings", "luxury", "fashion"],
+		"short_description": "Elegant diamond stud earrings for a touch of timeless sophistication.",
+		"full_description": "Adorn yourself with the timeless beauty of these Glittering Petals Diamond Stud Earrings. Crafted with precision, these exquisite earrings feature brilliant round-cut diamonds set in a delicate petal-inspired design. They are made of 18k white gold, ensuring both durability and elegance. Whether it's a special occasion or everyday wear, these earrings will elevate your style to new heights. With a limited quantity available, seize the opportunity to own a piece of luxury. Perfect as a gift or for self-indulgence.",
+		"rating": 4.8,
+		"reviews": [
+			{
+				"reviewer_name": "Alice Johnson",
+				"email": "alice@example.com",
+				"review": "I absolutely adore these earrings! The diamonds sparkle brilliantly, and they're so comfortable to wear."
+			},
+			{
+				"reviewer_name": "David Smith",
+				"email": "david@example.com",
+				"review": "The craftsmanship is impeccable. These earrings are worth every penny."
+			},
+			{
+				"reviewer_name": "Emily Davis",
+				"email": "emily@example.com",
+				"review": "I received these as a gift, and they instantly became my favorite pair of earrings. They're stunning!"
+			}
+		]
+	},
+	{
+		"name": "Ishita Diamond Stud Earrings",
+		"price": 599.99,
+		"quantity": 50,
+		"brand": "Elegance Gems",
+		"image": "https://i.ibb.co/c860Ypj/ishita-diamond-stud-earrings.jpg",
+		"category": "earrings",
+		"tags": ["diamond", "earrings", "studs", "luxury"],
+		"short_description": "Elegant diamond stud earrings for a touch of luxury and style.",
+		"full_description": "Elevate your look with these stunning Ishita Diamond Stud Earrings. Crafted with precision, these earrings feature brilliant-cut diamonds set in 18K white gold. Their timeless design adds a touch of sophistication to any outfit, making them perfect for special occasions or daily wear. The earrings come with a secure screw-back closure for added comfort and security. With a rating of 4.8 out of 5, these earrings have received rave reviews for their quality and elegance.",
+		"rating": 4.8,
+		"reviews": [
+			{
+				"reviewer_name": "Emily Smith",
+				"email": "emily.smith@example.com",
+				"review": "I absolutely love these earrings! They're so beautiful and well-crafted. Great value for money."
+			},
+			{
+				"reviewer_name": "David Johnson",
+				"email": "david.johnson@example.com",
+				"review": "The Ishita Diamond Stud Earrings are a perfect gift. My wife adores them! The diamonds sparkle beautifully."
+			},
+			{
+				"reviewer_name": "Sophia Lee",
+				"email": "sophia.lee@example.com",
+				"review": "These earrings are exquisite. I wear them to parties and get compliments every time. Highly recommended."
+			}
+		]
+	},
+	{
+		"name": "Ishita Classic Shining Heart Diamond Bracelet",
+		"price": 599.99,
+		"quantity": 50,
+		"brand": "Ishita Jewelry",
+		"image": "https://i.ibb.co/BLyRtLn/classic-shining-heart-diamond-bracelet.jpg",
+		"category": "bracelet",
+		"tags": ["diamond", "bracelet", "heart", "classic"],
+		"short_description": "Elegantly crafted heart-shaped diamond bracelet for a timeless and luxurious look.",
+		"full_description": "Elevate your style with the Ishita Classic Shining Heart Diamond Bracelet. This exquisite piece features a stunning heart-shaped pendant encrusted with brilliant diamonds, set in high-quality sterling silver. The adjustable chain ensures a comfortable fit for any wrist size. Whether you're dressing up for a special occasion or adding a touch of glamour to your everyday attire, this bracelet is the perfect choice. Each diamond is carefully selected for its clarity and sparkle, making it a true symbol of elegance and sophistication. With a limited quantity available, don't miss the opportunity to own this exquisite piece of jewelry.",
+		"rating": 4.8,
+		"reviews": [
+			{
+				"reviewer_name": "Alice Smith",
+				"reviewer_email": "alice@example.com",
+				"review": "I absolutely love this bracelet! It's even more beautiful in person. The diamonds shine brilliantly."
+			},
+			{
+				"reviewer_name": "John Davis",
+				"reviewer_email": "john@example.com",
+				"review": "The bracelet exceeded my expectations. It's a statement piece that always garners compliments."
+			},
+			{
+				"reviewer_name": "Sarah Johnson",
+				"reviewer_email": "sarah@example.com",
+				"review": "I bought this as a gift for my daughter, and she adores it. It's elegant and versatile."
+			}
+		]
+	},
+	{
+		"name": "Glendale Diamond Bracelet",
+		"price": 999.99,
+		"quantity": 50,
+		"brand": "Luxury Gems",
+		"image": "https://i.ibb.co/r4vKDCz/glendale-diamond-bracelet.jpg",
+		"category": "bracelet",
+		"tags": ["diamond", "bracelet", "luxury", "fashion"],
+		"short_description": "Elegant and timeless, the Glendale Diamond Bracelet is a stunning addition to your jewelry collection.",
+		"full_description": "Indulge in luxury with the Glendale Diamond Bracelet. This exquisite piece features a dazzling array of round-cut diamonds set in 18k white gold. Its elegant design is perfect for special occasions or adding a touch of glamour to your everyday look. With 50 pieces in stock, you can secure this elegant accessory today. The Glendale Diamond Bracelet is a testament to craftsmanship and style, making it a valuable addition to your jewelry collection.",
+		"rating": 4.8,
+		"reviews": [
+			{
+				"reviewer_name": "Alice Johnson",
+				"email": "alice@example.com",
+				"review": "I absolutely adore this bracelet! It's so beautiful and well-crafted. Worth every penny."
+			},
+			{
+				"reviewer_name": "David Smith",
+				"email": "david@example.com",
+				"review": "The Glendale Diamond Bracelet is a showstopper. I bought it as a gift, and the recipient was thrilled."
+			},
+			{
+				"reviewer_name": "Emily Davis",
+				"email": "emily@example.com",
+				"review": "This bracelet exceeded my expectations. The diamonds sparkle brilliantly, and it's incredibly comfortable to wear."
+			}
+		]
+	},
+	{
+		"name": "Shelly Diamond Mangalsutra Bracelet",
+		"price": 1999.99,
+		"quantity": 50,
+		"brand": "Shelly Jewelry",
+		"image": "https://i.ibb.co/3hcjPdq/shelly-diamond-mangalsutra-bracelet.jpg",
+		"category": "bracelet",
+		"tags": [
+			"mangalsutra",
+			"diamond",
+			"bracelet",
+			"traditional",
+			"wedding"
+		],
+		"short_description": "Elegant mangalsutra bracelet with stunning diamonds, perfect for weddings and special occasions.",
+		"full_description": "The Shelly Diamond Mangalsutra Bracelet is a symbol of timeless elegance and tradition. Crafted with care and precision, this exquisite piece features brilliant diamonds set in a delicate and intricate design. Whether worn as a mangalsutra or a bracelet, it adds a touch of grace to any outfit. This piece is a true masterpiece, suitable for weddings, anniversaries, or any special occasion. With a limited quantity available, don't miss the chance to own this stunning jewelry from Shelly Jewelry. Embrace tradition with a modern twist, and make a statement of love and commitment with this beautiful mangalsutra bracelet.",
+		"rating": 4.8,
+		"reviews": [
+			{
+				"reviewer_name": "Emily Smith",
+				"email": "emily.smith@example.com",
+				"review": "I absolutely love this mangalsutra bracelet! The diamonds are stunning, and it's so versatile. It's become my favorite piece of jewelry."
+			},
+			{
+				"reviewer_name": "David Patel",
+				"email": "david.patel@example.com",
+				"review": "This bracelet is worth every penny. The craftsmanship is exceptional, and it's the perfect gift for a special occasion."
+			},
+			{
+				"reviewer_name": "Sara Johnson",
+				"email": "sara.johnson@example.com",
+				"review": "I received this as a wedding gift, and it's the most beautiful piece of jewelry I own. It's a symbol of love and commitment that I cherish."
+			}
+		]
+	},
+	{
+		"name": "Zohreh Diamond Bracelet",
+		"price": 2499.99,
+		"quantity": 100,
+		"brand": "Zohreh Jewelry",
+		"image": "https://i.ibb.co/DRbYqRq/zohreh-diamond-bracelet.jpg",
+		"category": "bracelet",
+		"tags": ["diamond", "bracelet", "luxury"],
+		"short_description": "Elegant and timeless diamond bracelet for a touch of luxury.",
+		"full_description": "The Zohreh Diamond Bracelet is a masterpiece of craftsmanship and elegance. Adorned with exquisite diamonds, this bracelet is the epitome of luxury. Its timeless design and exceptional quality make it the perfect accessory for any special occasion. Whether you're attending a gala or celebrating a milestone, this bracelet will add a touch of glamour to your ensemble. With 100 pieces in stock, it's an exclusive piece of jewelry that you don't want to miss. Elevate your style with the Zohreh Diamond Bracelet today.",
+		"rating": 4.8,
+		"reviews": [
+			{
+				"reviewer_name": "Alice Johnson",
+				"email": "alice@example.com",
+				"review": "I absolutely love this bracelet! It's stunning and the diamonds sparkle brilliantly."
+			},
+			{
+				"reviewer_name": "David Smith",
+				"email": "david@example.com",
+				"review": "The Zohreh Diamond Bracelet exceeded my expectations. It's worth every penny."
+			},
+			{
+				"reviewer_name": "Emily Davis",
+				"email": "emily@example.com",
+				"review": "This bracelet is a true work of art. It's elegant and adds a touch of glamour to my outfits."
+			}
+		]
+	},
+	{
+		"name": "Millie Bloom Gemstone Bracelet",
+		"price": 49.99,
+		"quantity": 100,
+		"brand": "Millie Bloom",
+		"image": "https://i.ibb.co/JpqHJ3X/millie-bloom-gemstone-bracelets.jpg",
+		"category": "bracelet",
+		"tags": ["gemstone", "bracelet", "fashion"],
+		"short_description": "Elegant gemstone bracelet for a touch of sophistication.",
+		"full_description": "The Millie Bloom Gemstone Bracelet is a stunning piece of jewelry that combines the beauty of natural gemstones with modern design. This bracelet features an array of carefully selected gemstones, each known for their unique and positive energies. It's perfect for adding a touch of sophistication to any outfit, whether it's a formal event or a casual day out. The adjustable clasp ensures a comfortable fit for most wrist sizes. Elevate your style and energy with this exquisite Millie Bloom Gemstone Bracelet.",
+		"rating": 4.8,
+		"reviews": [
+			{
+				"reviewer_name": "Anna Smith",
+				"email": "anna.smith@example.com",
+				"review": "I love this bracelet! The colors of the gemstones are so vibrant, and it adds a special touch to my outfits."
+			},
+			{
+				"reviewer_name": "John Doe",
+				"email": "johndoe@example.com",
+				"review": "The quality is top-notch, and it arrived promptly. Great value for the price."
+			},
+			{
+				"reviewer_name": "Emily Johnson",
+				"email": "emily.j@example.com",
+				"review": "I receive compliments every time I wear it. It's become my favorite piece of jewelry."
+			}
+		]
+	},
+	{
+		"name": "Amanda Diamond Pendant",
+		"price": 799.99,
+		"quantity": 50,
+		"brand": "LuxuryGems",
+		"image": "https://i.ibb.co/WKhJtLH/amanda-diamond-pendant.jpg",
+		"category": "pendant",
+		"tags": ["diamond", "pendant", "luxury", "fashion"],
+		"short_description": "Elegant Amanda Diamond Pendant for a touch of luxury and style.",
+		"full_description": "The Amanda Diamond Pendant is a masterpiece of elegance and sophistication. Crafted with precision, it features a brilliant-cut diamond set in 18K white gold, creating a mesmerizing sparkle. This pendant is the perfect accessory for special occasions or everyday glamour. It comes with a matching chain and an exquisite gift box.\n\nDimensions: 0.5 inches x 0.3 inches\n\nWeight: 0.2 carats\n\nRating: 4.8 out of 5",
+		"rating": 4.8,
+		"reviews": [
+			{
+				"reviewer_name": "Emily Smith",
+				"email": "emily.smith@example.com",
+				"review": "Absolutely stunning! I receive compliments every time I wear it."
+			},
+			{
+				"reviewer_name": "John Davis",
+				"email": "john.davis@example.com",
+				"review": "The Amanda Pendant exceeded my expectations. It's worth every penny."
+			},
+			{
+				"reviewer_name": "Sophia Johnson",
+				"email": "sophia.johnson@example.com",
+				"review": "I bought this as a gift for my wife, and she loves it. It's truly beautiful."
+			}
+		]
+	},
+	{
+		"name": "Heart Silhouette Gemstone Pendant",
+		"price": 49.99,
+		"quantity": 100,
+		"brand": "GemCrafters",
+		"image": "https://i.ibb.co/6s27Y3z/heart-silhouette-gemstone-pendant.jpg",
+		"category": "pendant",
+		"tags": ["heart pendant", "gemstone", "necklace"],
+		"short_description": "Elegant heart-shaped gemstone pendant, perfect for adding a touch of romance to your style.",
+		"full_description": "The Heart Silhouette Gemstone Pendant is a stunning piece of jewelry crafted by GemCrafters. Made from high-quality materials, this pendant features a heart-shaped gemstone encased in a delicate sterling silver setting. It's the perfect accessory to express your love or add a touch of romance to your style. With a variety of gemstone options available, you can choose the one that resonates with you the most. Whether you wear it on a special occasion or as an everyday accessory, this pendant will surely turn heads. It comes with a matching chain and a beautiful gift box, making it an excellent gift choice as well.",
+		"rating": 4.8,
+		"reviews": [
+			{
+				"reviewer_name": "Alice Johnson",
+				"reviewer_email": "alice@example.com",
+				"review": "I absolutely love this pendant! It's even more beautiful in person, and the gemstone quality is outstanding."
+			},
+			{
+				"reviewer_name": "John Smith",
+				"reviewer_email": "john@example.com",
+				"review": "Bought this as a gift for my wife, and she adores it. The craftsmanship is remarkable. Highly recommended!"
+			},
+			{
+				"reviewer_name": "Emily Davis",
+				"reviewer_email": "emily@example.com",
+				"review": "Received this pendant as an anniversary gift. It's breathtaking! The packaging is lovely too."
+			}
+		]
+	},
+	{
+		"name": "Delicate Waves Diamond Pendant",
+		"price": 799.99,
+		"quantity": 50,
+		"brand": "Elegance Gems",
+		"image": "https://i.ibb.co/cJ3TQH3/delicate-waves-diamond-pendant.jpg",
+		"category": "pendant",
+		"tags": ["diamond", "pendant", "luxury", "fashion"],
+		"short_description": "Elegant waves of diamonds adorn this pendant, perfect for adding a touch of luxury to any outfit.",
+		"full_description": "The Delicate Waves Diamond Pendant is a stunning piece of jewelry that exudes timeless elegance. Crafted with precision and attention to detail, this pendant features a graceful wave design encrusted with brilliant, ethically sourced diamonds. The pendant is made from 18k white gold, adding to its allure and durability. Whether worn for a special occasion or as an everyday accessory, this pendant is sure to captivate hearts and turn heads. It comes with an adjustable chain, allowing you to customize the length to suit your style. Elevate your jewelry collection with the Delicate Waves Diamond Pendant today.",
+		"rating": 4.8,
+		"reviews": [
+			{
+				"reviewer_name": "Emily Smith",
+				"reviewer_email": "emily@example.com",
+				"review": "Absolutely stunning! I receive compliments every time I wear this pendant. It's the perfect blend of elegance and sophistication."
+			},
+			{
+				"reviewer_name": "John Doe",
+				"reviewer_email": "john@example.com",
+				"review": "I bought this pendant as a gift for my wife, and she couldn't be happier. The quality and craftsmanship are exceptional."
+			},
+			{
+				"reviewer_name": "Sarah Johnson",
+				"reviewer_email": "sarah@example.com",
+				"review": "The Delicate Waves Pendant is a true work of art. I'm in love with its unique design and the way it sparkles in the light."
+			}
+		]
+	},
+	{
+		"name": "Melrose Ornate Diamond Pendant",
+		"price": 1499.99,
+		"quantity": 50,
+		"brand": "Luxury Gems",
+		"image": "https://i.ibb.co/Rv7FmyN/melrose-ornate-diamond-pendant.jpg",
+		"category": "pendant",
+		"tags": ["diamond", "pendant", "luxury", "ornate", "fashion"],
+		"short_description": "Elegant diamond pendant for a touch of luxury and sophistication.",
+		"full_description": "Elevate your style with the Melrose Ornate Diamond Pendant. This exquisite piece features a brilliant-cut diamond set in a beautifully crafted ornate design. The pendant is made from 18k white gold and comes with a delicate chain. Whether for a special occasion or everyday elegance, this pendant adds a touch of luxury to any outfit. Dimensions: 1.5cm x 0.8cm. Chain length: 18 inches. Weight: 3.5 grams.",
+		"rating": 4.8,
+		"reviews": [
+			{
+				"reviewer_name": "Alice Johnson",
+				"email": "alice@example.com",
+				"review": "I absolutely love this pendant! It's even more stunning in person."
+			},
+			{
+				"reviewer_name": "David Smith",
+				"email": "david@example.com",
+				"review": "Great craftsmanship and excellent value for such a beautiful piece."
+			},
+			{
+				"reviewer_name": "Emily Davis",
+				"email": "emily@example.com",
+				"review": "Received it as a gift, and I couldn't be happier. It's simply gorgeous."
+			}
+		]
+	},
+	{
+		"name": "Alder Root Diamond Pendant",
+		"price": 799.99,
+		"quantity": 50,
+		"brand": "Luxury Gems",
+		"image": "https://i.ibb.co/sgtdVvv/alder-root-diamond-pendant.jpg",
+		"category": "pendant",
+		"tags": ["diamond", "pendant", "luxury", "jewelry"],
+		"short_description": "Elegant Alder Root Diamond Pendant for timeless beauty and style.",
+		"full_description": "The Alder Root Diamond Pendant is a masterpiece of craftsmanship and elegance. This exquisite pendant features a stunning round-cut diamond set in a delicate alder root-inspired design, crafted from 18k white gold. It exudes timeless beauty and style, making it the perfect accessory for any special occasion. Whether worn for a romantic dinner or a formal event, this pendant will capture hearts and attention. It comes with a 20-inch white gold chain and a secure clasp. Elevate your style and radiate sophistication with this luxurious piece.",
+		"rating": 4.8,
+		"reviews": [
+			{
+				"reviewer_name": "Emily Johnson",
+				"email": "emily@example.com",
+				"review": "I absolutely love this pendant! It's so elegant and unique. The diamond sparkles beautifully."
+			},
+			{
+				"reviewer_name": "Michael Davis",
+				"email": "michael@example.com",
+				"review": "Bought this as a gift for my wife, and she couldn't be happier. It's a stunning piece of jewelry."
+			},
+			{
+				"reviewer_name": "Sarah Smith",
+				"email": "sarah@example.com",
+				"review": "The Alder Root Pendant is simply breathtaking. The craftsmanship is top-notch, and it's worth every penny."
+			}
+		]
+	},
+	{
+		"name": "Doris Heartbeat Diamond Necklace",
+		"price": 1999.99,
+		"quantity": 50,
+		"brand": "Doris Jewelers",
+		"image": "https://i.ibb.co/MGH6B1Q/doris-heartbeat-diamond-necklace.jpg",
+		"category": "necklace",
+		"tags": ["diamond", "necklace", "heartbeat"],
+		"short_description": "Elegantly crafted Heartbeat Diamond Necklace, a symbol of love and grace.",
+		"full_description": "The Doris Heartbeat Diamond Necklace is a masterpiece of fine jewelry craftsmanship. It features a stunning heart-shaped pendant adorned with brilliant-cut diamonds, symbolizing love and eternal connection. The necklace is made from 18k white gold, adding to its elegance and durability. With an adjustable chain length, it can be worn at various lengths to complement any outfit. This necklace is perfect for special occasions or as a timeless gift for a loved one. Each diamond is carefully selected for its quality and brilliance. Elevate your style with this exquisite piece from Doris Jewelers.",
+		"rating": 4.8,
+		"reviews": [
+			{
+				"reviewer_name": "Emily Johnson",
+				"reviewer_email": "emily.johnson@example.com",
+				"review": "I fell in love with this necklace the moment I saw it! It's absolutely stunning and the diamonds sparkle beautifully."
+			},
+			{
+				"reviewer_name": "Michael Smith",
+				"reviewer_email": "michael.smith@example.com",
+				"review": "My wife adores this necklace. I surprised her with it on our anniversary, and she couldn't be happier."
+			},
+			{
+				"reviewer_name": "Sophia Davis",
+				"reviewer_email": "sophia.davis@example.com",
+				"review": "The craftsmanship is impressive. I receive compliments every time I wear it. Worth every penny!"
+			}
+		]
+	},
+	{
+		"name": "Adore Personalized Gemstone Necklace",
+		"price": 99.99,
+		"quantity": 100,
+		"brand": "Adore Jewels",
+		"image": "https://i.ibb.co/L5bWxy3/adore-personalised-gemstone-necklace.jpg",
+		"category": "necklace",
+		"tags": ["gemstone", "personalized", "necklace", "gift"],
+		"short_description": "Elegantly crafted gemstone necklace with your choice of personalization. Perfect for any occasion.",
+		"full_description": "The Adore Personalized Gemstone Necklace is a true masterpiece of craftsmanship. This exquisite necklace features a genuine gemstone of your choice, set in a beautiful and timeless design. What makes it truly special is the option to personalize it with a name or meaningful word, making it a unique and cherished keepsake. It's crafted with the finest materials and attention to detail, ensuring both beauty and durability. Whether you're treating yourself or looking for the perfect gift, this necklace is sure to be treasured for a lifetime.",
+		"rating": 4.8,
+		"reviews": [
+			{
+				"reviewer_name": "Emily Smith",
+				"email": "emily@example.com",
+				"review": "I absolutely love my Adore Gemstone Necklace! It's stunning and the personalization makes it even more special."
+			},
+			{
+				"reviewer_name": "John Doe",
+				"email": "john@example.com",
+				"review": "Great quality and fast shipping. The gemstone shines beautifully. Highly recommend!"
+			},
+			{
+				"reviewer_name": "Sarah Johnson",
+				"email": "sarah@example.com",
+				"review": "Received this as a gift, and I couldn't be happier. It's a perfect addition to my jewelry collection."
+			}
+		]
+	},
+	{
+		"name": "Vintage Crown Diamond Necklace",
+		"price": 4999.99,
+		"quantity": 10,
+		"brand": "Elegance Jewels",
+		"image": "https://i.ibb.co/kgVSXpy/vintage-crown-diamond-necklace.jpg",
+		"category": "necklace",
+		"tags": ["vintage", "diamond", "necklace", "luxury"],
+		"short_description": "Exquisite vintage crown diamond necklace, a symbol of timeless elegance and luxury.",
+		"full_description": "Elevate your style with this Vintage Crown Diamond Necklace by Elegance Jewels. Crafted with precision, this necklace features a stunning crown-shaped pendant adorned with brilliant diamonds. The intricate design and exquisite craftsmanship make it a true masterpiece. This necklace is the perfect accessory for special occasions or as a cherished heirloom piece. With only 10 available, don't miss your chance to own a piece of history.",
+		"rating": 4.8,
+		"reviews": [
+			{
+				"reviewer_name": "Sophia Smith",
+				"reviewer_email": "sophia@example.com",
+				"review": "I absolutely adore this necklace! The diamonds sparkle brilliantly, and the design is stunning."
+			},
+			{
+				"reviewer_name": "John Doe",
+				"reviewer_email": "john@example.com",
+				"review": "Bought this as a gift for my wife, and she was thrilled. It's truly a work of art."
+			},
+			{
+				"reviewer_name": "Emma Johnson",
+				"reviewer_email": "emma@example.com",
+				"review": "The Vintage Crown Diamond Necklace is the epitome of elegance. I wear it for special occasions and always get compliments."
+			}
+		]
+	},
+	{
+		"name": "Nelia Cutout Pearl Necklace",
+		"price": 49.99,
+		"quantity": 100,
+		"brand": "EleganceCraft",
+		"image": "https://i.ibb.co/Dr7xgSq/nelia-cutout-pearl-necklace.jpg",
+		"category": "necklace",
+		"tags": ["pearl", "necklace", "fashion", "accessory"],
+		"short_description": "Elegant pearl necklace with intricate cutout design. Perfect for formal occasions or adding a touch of class to everyday wear.",
+		"full_description": "The Nelia Cutout Pearl Necklace is a stunning piece of jewelry that exudes sophistication and elegance. Crafted with precision, it features lustrous pearls intricately set in a beautiful cutout design. This necklace is versatile, suitable for both formal events and everyday wear. Its timeless design complements various outfits, making it a must-have accessory for any fashion enthusiast. The high-quality materials ensure durability and lasting beauty. With a length that rests gracefully on the neckline, this necklace is a symbol of refined taste. Elevate your style with the Nelia Cutout Pearl Necklace.",
+		"rating": 4.8,
+		"reviews": [
+			{
+				"reviewer_name": "Sarah Smith",
+				"email": "sarah@example.com",
+				"review": "I adore this necklace! It's even more beautiful in person. Excellent craftsmanship and packaging."
+			},
+			{
+				"reviewer_name": "John Doe",
+				"email": "john@example.com",
+				"review": "Bought it as a gift for my wife, and she loves it. The pearls are exquisite. Highly recommended."
+			},
+			{
+				"reviewer_name": "Emma Johnson",
+				"email": "emma@example.com",
+				"review": "I wear this necklace to every special occasion. It adds a touch of glamour to my outfits. Truly a timeless piece."
+			}
+		]
+	},
+	{
+		"name": "Margot Heartbeat Diamond Necklace",
+		"price": 2499.99,
+		"quantity": 50,
+		"brand": "HeartLux",
+		"image": "https://i.ibb.co/K6GFLXs/margot-heartbeat-diamond-necklace.jpg",
+		"category": "necklace",
+		"tags": ["diamond", "necklace", "luxury", "heart-shaped"],
+		"short_description": "Elegance and love combined. The Margot Heartbeat Diamond Necklace is a symbol of affection and sophistication.",
+		"full_description": "The Margot Heartbeat Diamond Necklace is a stunning piece of jewelry that embodies elegance and love. Crafted with exquisite attention to detail, this necklace features a heart-shaped pendant adorned with brilliant diamonds that seem to beat with life. Made from high-quality materials, it's both durable and beautiful, making it a perfect gift for a loved one or a timeless addition to your collection. Whether you wear it for a special occasion or as an everyday statement piece, the Margot Necklace will capture hearts wherever you go. Available in limited quantity, so secure yours today.",
+		"rating": 4.8,
+		"reviews": [
+			{
+				"reviewer_name": "Sarah Smith",
+				"email": "sarah.smith@example.com",
+				"review": "I absolutely adore my Margot necklace! It's the epitome of elegance and a real conversation starter."
+			},
+			{
+				"reviewer_name": "John Doe",
+				"email": "john.doe@example.com",
+				"review": "The Margot Necklace exceeded my expectations. The craftsmanship and quality are exceptional."
+			},
+			{
+				"reviewer_name": "Emily Johnson",
+				"email": "emily.johnson@example.com",
+				"review": "I received this necklace as a gift, and it instantly became my favorite piece. The diamonds sparkle beautifully."
+			}
+		]
+	}
 ]

@@ -8,7 +8,7 @@ const Authentication = () => {
 	return (
 		<div>
 			<Header />
-			<div className="min-h-[calc(100vh-300px)]">
+			<div className="min-h-[calc(100vh-488px)]">
 				<Outlet />
 			</div>
 			<Footer />

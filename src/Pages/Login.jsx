@@ -1,21 +1,53 @@
 // eslint-disable-next-line no-unused-vars
-import React, { useState } from "react";
+import React, { useContext, useState } from "react";
 import { useForm } from "react-hook-form";
 import { FaGoogle } from "react-icons/fa6";
 import { HiEye, HiEyeOff } from "react-icons/hi";
+import { Link } from "react-router-dom";
+import Swal from "sweetalert2";
+import { AuthContext } from "../Provider&Routes/AuthProvider";
 
 const Login = () => {
+	const { loginUser, loginWithGoogle } = useContext(AuthContext);
 	const {
 		register,
+		reset,
 		handleSubmit,
-		formState: { errors },
+		formState: { errors }
 	} = useForm();
 
 	const [showPassword, setShowPassword] = useState(false);
 	const showPasswordHandler = () => setShowPassword(!showPassword);
 
-	const loginHandler = (data) => {
-		console.log(data);
+	const loginHandler = (user) => {
+		const { email, password } = user;
+		loginUser(email, password)
+			.then((userCredential) => {
+				if (userCredential?.user) {
+					Swal.fire({
+						icon: "success",
+						title: "Successful",
+						text: "You are now logged in.",
+						timer: 1500
+					});
+					reset();
+				}
+			})
+			.catch((err) => {
+				if (err.code === "auth/invalid-login-credentials") {
+					Swal.fire({
+						icon: "error",
+						title: "Incorrect Password",
+						text: "You entered wrong password. Please enter the correct password"
+					});
+				}
+				Swal.fire({
+					icon: "error",
+					title: err.code.replace("auth/", ""),
+					text: "Something went wrong. Please try again."
+				});
+				console.log(err.message);
+			});
 	};
 
 	return (
@@ -35,7 +67,7 @@ const Login = () => {
 								type="text"
 								placeholder="Enter your email"
 								{...register("email", {
-									required: true,
+									required: true
 								})}
 							/>
 							<div className="relative">
@@ -46,13 +78,13 @@ const Login = () => {
 									{...register("password", {
 										required: true,
 										pattern:
-											/^(?=.*[a-z])(?=.*[A-Z])(?=.*[0-9])(?=.*[!@#$%^&*])(?=.{8,})/,
+											/^(?=.*[a-z])(?=.*[A-Z])(?=.*[0-9])(?=.*[!@#$%^&*])(?=.{8,})/
 									})}
 								/>
 								<button
 									type="button"
 									onClick={showPasswordHandler}
-									className="absolute top-[7px] right-2 text-xl"
+									className="absolute top-[13px] right-2 text-xl"
 								>
 									{showPassword ? <HiEye /> : <HiEyeOff />}
 								</button>
@@ -83,10 +115,28 @@ const Login = () => {
 								</p>
 								<p className="h-[2px] w-full bg-white"></p>
 							</div>
-							<button className="mt-3 flex items-center justify-center gap-2 w-full py-1 text-xl font-bold text-amber-200 border border-amber-200 rounded md hover:bg-amber-200 hover:text-black transition-all duration-300">
+							<button
+								onClick={loginWithGoogle}
+								className="mt-3 flex items-center justify-center gap-2 w-full py-1 text-xl font-bold text-amber-200 border border-amber-200 rounded md hover:bg-amber-200 hover:text-black transition-all duration-300"
+							>
 								<FaGoogle />
 								<span>Google</span>
 							</button>
+						</div>
+						<div className="mt-3">
+							<p className="text-white text-center">
+								Are you new in{" "}
+								<span className="text-amber-200 font-semibold">
+									Treasure Tales
+								</span>
+								?{" "}
+								<Link
+									to={"/authentication/register"}
+									className="hover:text-amber-200 border-b-2 border-transparent hover:border-amber-200 pb-[2px] ms-1 transition-all duration-300"
+								>
+									Register
+								</Link>
+							</p>
 						</div>
 					</div>
 				</div>
